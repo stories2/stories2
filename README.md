@@ -7,3 +7,5 @@
 직접 그린 그림에 Live 2D를 얹어 생동감 있게 만들어본 전적이 있음
 
 [여기](https://youtu.be/ofFsAlJcRcM)가 참고한 레퍼런스 영상
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stories2&layout=compact)
