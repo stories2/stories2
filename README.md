@@ -4,8 +4,12 @@
 
 
 ![Scene1](https://user-images.githubusercontent.com/16532326/94700268-3aa75080-0376-11eb-9690-d59c22f53818.gif)
-직접 그린 그림에 Live 2D를 얹어 생동감 있게 만들어본 전적이 있음
+직접 그린 그림에 Live 2D를 이용하여 애니메이션 만들기!
 
 [여기](https://youtu.be/ofFsAlJcRcM)가 참고한 레퍼런스 영상
+
+![hawawa](https://github.com/stories2/CubismWebSamples/raw/develop/libeChanDemo.gif)
+
+Live2D 와 Face landmark 를 이용하여 캐릭터 움직이기! 하와와~
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stories2&layout=compact)
