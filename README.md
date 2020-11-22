@@ -1,5 +1,3 @@
-### 나는 쓴다 내 소개를!
-
 ![Scene1](https://user-images.githubusercontent.com/16532326/94700268-3aa75080-0376-11eb-9690-d59c22f53818.gif)
 직접 그린 그림에 Live 2D를 이용하여 애니메이션 만들기!
 
