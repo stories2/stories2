@@ -46,7 +46,8 @@
 
 [링크](https://pf.kakao.com/_wkxjxoxl)
 
-카카오톡 챗봇 구현하기 튜토리얼 작성 [링크](https://steemit.com/kr/@stories282/5vy9xs)
+- 카카오톡 챗봇 구현하기 튜토리얼 작성 [링크](https://steemit.com/kr/@stories282/5vy9xs)
+- 카카오톡 번역 챗봇 구현하기 튜토리얼 작성 [링크](https://stories2.tistory.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EC%95%84%EC%9D%B4-%EC%98%A4%ED%94%88-%EB%B9%8C%EB%8D%94%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%B2%88%EC%97%AD-%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 ## 자동화 툴
 
