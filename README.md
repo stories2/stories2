@@ -39,6 +39,8 @@
 
 Live2D 와 Face landmark 를 이용하여 캐릭터 움직이기! 하와와~
 
+[링크](https://github.com/stories2/CubismWebSamples)
+
 [Youtube](https://youtu.be/0WeNJuEhQ4c)에서 보기
 
 ![stories2's github stats](https://github-readme-stats.vercel.app/api?username=stories2&show_icons=true&theme=merko)
