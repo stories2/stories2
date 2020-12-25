@@ -8,6 +8,17 @@
 | SW Maestro  | 7기  |
 | 산업기능요원  | 미디어솔루션에서 복무 완료 (Web Full stack)  |
 
+## Tubeple
+
+동영상에 구름 텍스트 렌더링하기
+
+![video (1)-min](https://user-images.githubusercontent.com/16532326/103128833-1ee3ea00-46da-11eb-8d05-f91499445c28.gif)
+
+
+기술 스택 
+
+`Vue.js`, `Canvas`
+
 ## 최적화
 
 관리자 페이지에 표시할 이미지 최적화
