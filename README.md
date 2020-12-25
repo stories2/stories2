@@ -8,7 +8,7 @@
 | SW Maestro  | 7기  |
 | 산업기능요원  | 미디어솔루션에서 복무 완료 (Web Full stack)  |
 
-## 작업 
+## 작업 내역
 
 ## Tubeple
 
