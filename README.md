@@ -12,6 +12,8 @@
 
 관리자 페이지에 표시할 이미지 최적화
 
+> 실시간 갱신되어야 할 이미지 로드 시간을 5초에서 0.01초 로 줄이기
+
 [링크](https://mediasolutionkr.github.io/optimization/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EB%A7%8E%EB%8B%A4%EB%A9%B4-%EC%B5%9C%EC%A0%81%ED%99%94%EB%9D%BC%EB%8F%84-%EC%A2%8B%EC%95%84%ED%95%B4-%EC%A3%BC%EC%8B%A4-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94/)
 
 기술 스택
