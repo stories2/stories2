@@ -46,6 +46,8 @@
 
 [링크](https://pf.kakao.com/_wkxjxoxl)
 
+카카오톡 챗봇 구현하기 튜토리얼 작성 [링크](https://steemit.com/kr/@stories282/5vy9xs)
+
 ## 자동화 툴
 
 훈련소에 있는 친구에게 보낼 위문 편지 매크로 구현
