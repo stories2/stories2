@@ -12,7 +12,7 @@
 
 ## Tubeple
 
-동영상에 구름 텍스트 렌더링하기
+동영상에 구름 텍스트 렌더링하기 / 구름 빠르게 로드하기 (Redis)
 
 ![video (1)-min](https://user-images.githubusercontent.com/16532326/103128833-1ee3ea00-46da-11eb-8d05-f91499445c28.gif)
 
