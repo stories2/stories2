@@ -22,7 +22,7 @@
 
 기술 스택 
 
-`Vue.js`, `Canvas`
+`Vue.js`, `Canvas`, `TSOA`, `TS`, `REDIS`
 
 ## 최적화
 
