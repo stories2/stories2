@@ -54,6 +54,8 @@
 
 강낭대학교 달구지 봇 (카카오톡 챗봇)
 
+<img src="https://user-images.githubusercontent.com/16532326/110579811-d604e300-81aa-11eb-95f3-707d3b5f8223.PNG" width="240"/> <img src="https://user-images.githubusercontent.com/16532326/110579818-d8673d00-81aa-11eb-9150-6eab5d779027.PNG" width="240"/> <img src="https://user-images.githubusercontent.com/16532326/110579821-d9986a00-81aa-11eb-9bbb-ac8fc0b72d9f.PNG" width="240"/>
+
 - 교내 무료 셔틀 버스의 시간표 안내 및 각종 학교 생활 정보 안내 챗봇
 
 기술 스택
