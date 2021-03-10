@@ -22,7 +22,7 @@
 
 기술 스택 
 
-`Vue.js`, `Canvas`, `TSOA`, `TS`, `REDIS`
+`Vue.js`, `Canvas`, `TSOA`, `TS`, `Amazon ElastiCache`
 
 ## 최적화
 
