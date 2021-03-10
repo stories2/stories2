@@ -16,8 +16,6 @@
 
 ![스크린샷 2021-03-10 오후 2 05 28](https://user-images.githubusercontent.com/16532326/110579233-b3be9580-81a9-11eb-9087-89bb7fb65d30.png)
 
-[관리자 페이지](https://foilemap.co.kr/)
-
 ![화면 기록 2021-03-10 오후 2 03 12](https://user-images.githubusercontent.com/16532326/110579260-c507a200-81a9-11eb-9daf-0af0949929a3.gif)
 
 <img src="https://user-images.githubusercontent.com/16532326/110579268-c9cc5600-81a9-11eb-8718-e288b73ef150.png" width="640"/> <img src="https://user-images.githubusercontent.com/16532326/110579274-cc2eb000-81a9-11eb-8365-d0f6dc14552b.png" width="640"/>
