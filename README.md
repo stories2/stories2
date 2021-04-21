@@ -2,6 +2,12 @@
 
 ## 프로필
 
+<img src="https://user-images.githubusercontent.com/16532326/115600929-275ed100-a318-11eb-9bb8-a39dd5cb7679.gif" width="300">
+
+다른 프로필과는 다르게 뭔가 안녕해주는 움짤이 있었으면 해서 추가했어! 이걸 본 사람 같이 안녕! 해줘
+
+- 그림 과정 [유튜브](https://www.youtube.com/watch?v=drDH0tWRYPk)
+
 |   |   |
 |---|---|
 | 학교  | 강남대학교  |
