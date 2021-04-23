@@ -1,9 +1,9 @@
 ## 삽질 하는 개발자
 
 ## 프로필
-
-<img src="https://user-images.githubusercontent.com/16532326/115600929-275ed100-a318-11eb-9bb8-a39dd5cb7679.gif" width="300">
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/16532326/115600929-275ed100-a318-11eb-9bb8-a39dd5cb7679.gif" width="300">
+</div>
 다른 프로필과는 다르게 뭔가 안녕해주는 움짤이 있었으면 해서 추가했어! 이걸 본 사람 같이 안녕! 해줘
 
 - 그림 과정 [유튜브](https://www.youtube.com/watch?v=drDH0tWRYPk)
@@ -102,5 +102,5 @@ Live2D 와 Face landmark 를 이용하여 캐릭터 움직이기! 하와와~
 
 `Live2D SDK`, `OpenCV`, `Socket.io`, `Docker`
 
-![stories2's github stats](https://github-readme-stats.vercel.app/api?username=stories2&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stories2&layout=compact)
+[![stories2's github stats](https://github-readme-stats.vercel.app/api?username=stories2&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/stories2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=stories2&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/stories2)
