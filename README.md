@@ -16,6 +16,14 @@
 
 ## 작업 내역
 
+## 우타이테 랜딩페이지
+
+<img src="https://user-images.githubusercontent.com/16532326/123370720-42b9b700-d5bb-11eb-9cf3-55997afc9ea4.png" width="640"/>
+
+서브 컬쳐 공연 홍보용 페이지 개발, [링크](https://github.com/UTA-CONNECT/Landing-page)
+
+- [개발 내용 정리](https://github.com/UTA-CONNECT/Landing-page/blob/main/Ver.1.0%20development%20history.md)
+
 ## 인터넷 강의
 
 - [Javascript 기초 강의](https://www.letuin.com/lecture.php?action=view&no=5323)
