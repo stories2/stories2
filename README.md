@@ -13,6 +13,7 @@
 | 학교  | 강남대학교  |
 | SW Maestro  | 7기  |
 | 산업기능요원  | 미디어솔루션에서 복무 완료 (Web Full stack)  |
+| Artstreet | https://medibang.com/author/3460440/ |
 
 ## 작업 내역
 
