@@ -16,6 +16,10 @@
 
 ## 작업 내역
 
+## 인터넷 강의
+
+- [Javascript 기초 강의](https://www.letuin.com/lecture.php?action=view&no=5323)
+
 ## 부동산 플랫폼 
 
 [홈페이지](http://www.folie.co.kr/)
