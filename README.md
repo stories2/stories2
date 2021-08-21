@@ -1,10 +1,19 @@
 ## 삽질 하는 개발자
 
 ## 프로필
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/16532326/130327902-48d51b56-53d7-42ac-aafc-862a26374ee6.png">
+</div>
+
+취미로 그림을 그리고 있어요
+
+각 캐릭터별 그리는 과정 [링크](https://youtube.com/playlist?list=PLtxx9mLrCpnLkIZXWrORJnB_UPA9BvDNa)
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/16532326/115600929-275ed100-a318-11eb-9bb8-a39dd5cb7679.gif" width="300">
 </div>
-다른 프로필과는 다르게 뭔가 안녕해주는 움짤이 있었으면 해서 추가했어! 이걸 본 사람 같이 안녕! 해줘
+안녕!
 
 - 그림 과정 [유튜브](https://www.youtube.com/watch?v=drDH0tWRYPk)
 
