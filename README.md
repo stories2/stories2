@@ -10,13 +10,6 @@
 
 각 캐릭터별 그리는 과정 [링크](https://youtube.com/playlist?list=PLtxx9mLrCpnLkIZXWrORJnB_UPA9BvDNa)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/16532326/115600929-275ed100-a318-11eb-9bb8-a39dd5cb7679.gif" width="300">
-</div>
-안녕!
-
-- 그림 과정 [유튜브](https://www.youtube.com/watch?v=drDH0tWRYPk)
-
 |   |   |
 |---|---|
 | 학교  | 강남대학교  |
@@ -117,6 +110,13 @@
 직접 그린 그림에 Live 2D를 이용하여 애니메이션 만들기!
 
 [여기](https://youtu.be/ofFsAlJcRcM)가 참고한 레퍼런스 영상
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/16532326/115600929-275ed100-a318-11eb-9bb8-a39dd5cb7679.gif" width="300">
+</div>
+안녕!
+
+- 그림 과정 [유튜브](https://www.youtube.com/watch?v=drDH0tWRYPk)
 
 ![hawawa](https://github.com/stories2/CubismWebSamples/raw/develop/libeChanDemo.gif)
 
