@@ -19,6 +19,20 @@
 
 ## 작업 내역
 
+## 나만의 버튜버 웹 앱
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/16532326/137676404-7ce2f913-75bc-4d55-a677-d913387a4231.PNG" width="187.5"/>
+<img src="https://user-images.githubusercontent.com/16532326/137676416-1682b358-d356-4d52-ad5a-301e279103ff.PNG" width="187.5"/>
+<img src="https://user-images.githubusercontent.com/16532326/137676415-9e867f6d-6f7e-43ed-898c-ca864c9d4e06.PNG" width="187.5"/>
+</div>
+
+<div align="center">
+<video controls src="https://user-images.githubusercontent.com/16532326/137676888-d0380726-453f-4182-afc8-aac5fb0c7382.mov" alt="demo" mute="mute" autoplay="autoplay" playsinline/>
+</div>
+
+- [개발 repo 바로가기](https://github.com/stories2/Vtuber)
+
 ## 우타이테 랜딩페이지
 
 <img src="https://user-images.githubusercontent.com/16532326/123370720-42b9b700-d5bb-11eb-9cf3-55997afc9ea4.png" width="640"/>
