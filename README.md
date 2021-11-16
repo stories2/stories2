@@ -1,23 +1,61 @@
-## 삽질 하는 개발자
+<img align="right" width="320" src="https://user-images.githubusercontent.com/16532326/141936459-f614ed5c-1297-4175-934b-4a7a1bd9bda1.gif">
 
-## 프로필
+# Introduce
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/16532326/130327902-48d51b56-53d7-42ac-aafc-862a26374ee6.png">
-</div>
+맥주 마시고선 다음날 피똥 싸본 허약체질 개발자 입니다. ^^7
 
-취미로 그림을 그리고 있어요
+<hr></hr>
 
-각 캐릭터별 그리는 과정 [링크](https://youtube.com/playlist?list=PLtxx9mLrCpnLkIZXWrORJnB_UPA9BvDNa)
+볼링을 잘 하는건 아니지만 같이 놀는 정도로만 플레이를 합니다.
 
-|   |   |
-|---|---|
-| 학교  | 강남대학교  |
-| SW Maestro  | 7기  |
-| 산업기능요원  | [미디어솔루션](https://mediasolutionkr.github.io/)에서 복무 완료 (Web Full stack)  |
-| Artstreet | https://medibang.com/author/3460440/ |
+</br>
 
-## 작업 내역
+자전거 타는걸 좋아해서 `홍대` -> `잠실` 까지 퇴근 할때 마다 대중교통 대신 자전거를 타고 갔었습니다. 도착하고 나면 다리에 마비가 오는게 문제지만
+
+<section>
+<img align="left" width="70%" src="https://user-images.githubusercontent.com/16532326/130327902-48d51b56-53d7-42ac-aafc-862a26374ee6.png">
+<div width="30%">
+오랜 취미 생활로는 그림을 그립니다.
+
+[![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLtxx9mLrCpnLkIZXWrORJnB_UPA9BvDNa)
+
+각 캐릭터 별로 그리는 과정을 담아보았습니다. 
+  </div>
+</section>
+
+<br>
+<br>
+<br>
+<br>
+<hr></hr>
+
+## 활동 이력
+
+- `2021` 스타트업 코딩 페스티벌 2차 진출
+- `2018 ~ 2021` 산업기능 요원 복무 (Web full stack 개발자)
+- `2016 ~ 2017` SW Maestro 7기 연수생
+- `2016` 제27회 전국 ICT 창의성 대회 프로그래밍 전문가 부문 대상
+- `2015 ~ ` 강남대학교 재학
+
+
+<br>
+<br>
+<hr></hr>
+
+## 요즘 배우고 있는 것
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+## 개발 관련 사용해 본 것
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)	![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+
+## 작업 했던 프로젝트
+
+<details>
+<summary>나만의 버튜버 웹 앱</summary>
+
 
 ## 나만의 버튜버 웹 앱
 
@@ -32,7 +70,12 @@
 </div>
 
 - [개발 repo 바로가기](https://github.com/stories2/Vtuber)
+</details>
 
+<hr></hr>
+
+<details>
+<summary>우타이테 랜딩페이지</summary>
 ## 우타이테 랜딩페이지
 
 <img src="https://user-images.githubusercontent.com/16532326/123370720-42b9b700-d5bb-11eb-9cf3-55997afc9ea4.png" width="640"/>
@@ -41,10 +84,17 @@
 
 - [개발 내용 정리](https://github.com/UTA-CONNECT/Landing-page/blob/main/Ver.1.0%20development%20history.md)
 
-## 인터넷 강의
+  </details>
 
-- [Javascript 기초 강의](https://www.letuin.com/lecture.php?action=view&no=5323)
+<hr></hr>
 
+[Javascript 기초 강의](https://www.letuin.com/lecture.php?action=view&no=5323)
+
+<hr></hr>
+
+<details>
+<summary>부동산 플랫폼 </summary>
+  
 ## 부동산 플랫폼 
 
 [홈페이지](http://www.folie.co.kr/)
@@ -65,6 +115,13 @@
 
 `Vue.js`, `Kakao Map API`, `Flask`, `Swagger`, `Nginx Loadbalance`
 
+</details>
+
+<hr></hr>
+
+<details>
+<summary>Tubeple</summary>
+  
 ## Tubeple
 
 동영상에 구름 텍스트 렌더링하기 / 구름 빠르게 로드하기 (Redis)
@@ -79,18 +136,17 @@
 
 `Vue.js`, `Canvas`, `TSOA`, `TS`, `Amazon ElastiCache`
 
-## 최적화
+</details>
+  
+  <hr></hr>
+  
+[자주 갱신되어야 할 이미지 로드 시간 줄이기](https://mediasolutionkr.github.io/optimization/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EB%A7%8E%EB%8B%A4%EB%A9%B4-%EC%B5%9C%EC%A0%81%ED%99%94%EB%9D%BC%EB%8F%84-%EC%A2%8B%EC%95%84%ED%95%B4-%EC%A3%BC%EC%8B%A4-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94/)
 
-관리자 페이지에 표시할 이미지 최적화
+<hr></hr>
 
-> 실시간 갱신되어야 할 이미지 로드 시간을 5초에서 0.01초 로 줄이기
-
-[링크](https://mediasolutionkr.github.io/optimization/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EB%A7%8E%EB%8B%A4%EB%A9%B4-%EC%B5%9C%EC%A0%81%ED%99%94%EB%9D%BC%EB%8F%84-%EC%A2%8B%EC%95%84%ED%95%B4-%EC%A3%BC%EC%8B%A4-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94/)
-
-기술 스택
-
-`Mariadb`, `Docker`, `Redis`, `TSOA`, `Nginx`
-
+<details>
+<summary>강낭대학교 달구지 봇 (카카오톡 챗봇)</summary>
+  
 ## 챗봇 제작
 
 강낭대학교 달구지 봇 (카카오톡 챗봇)
@@ -108,41 +164,13 @@
 - 카카오톡 챗봇 구현하기 튜토리얼 작성 [링크](https://steemit.com/kr/@stories282/5vy9xs)
 - 카카오톡 번역 챗봇 구현하기 튜토리얼 작성 [링크](https://stories2.tistory.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EC%95%84%EC%9D%B4-%EC%98%A4%ED%94%88-%EB%B9%8C%EB%8D%94%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%B2%88%EC%97%AD-%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
-## 자동화 툴
+</details>
 
-훈련소에 있는 친구에게 보낼 위문 편지 매크로 구현
+<hr></hr>
 
-[링크](https://github.com/stories2/The-Camp-Letter)
+[훈련소에 있는 친구에게 보낼 위문 편지 매크로 구현](https://github.com/stories2/The-Camp-Letter)
 
-기술 스택
-
-`Vue.js`, `Firebase`, `Google Scheduler`
-
-## Live 2D
-
-![Scene1](https://user-images.githubusercontent.com/16532326/94700268-3aa75080-0376-11eb-9690-d59c22f53818.gif)
-직접 그린 그림에 Live 2D를 이용하여 애니메이션 만들기!
-
-[여기](https://youtu.be/ofFsAlJcRcM)가 참고한 레퍼런스 영상
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/16532326/115600929-275ed100-a318-11eb-9bb8-a39dd5cb7679.gif" width="300">
-</div>
-안녕!
-
-- 그림 과정 [유튜브](https://www.youtube.com/watch?v=drDH0tWRYPk)
-
-![hawawa](https://github.com/stories2/CubismWebSamples/raw/develop/libeChanDemo.gif)
-
-Live2D 와 Face landmark 를 이용하여 캐릭터 움직이기! 하와와~
-
-[링크](https://github.com/stories2/CubismWebSamples)
-
-[Youtube](https://youtu.be/0WeNJuEhQ4c)에서 보기
-
-기술 스택
-
-`Live2D SDK`, `OpenCV`, `Socket.io`, `Docker`
+<hr></hr>
 
 [![stories2's github stats](https://github-readme-stats.vercel.app/api?username=stories2&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/stories2)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=stories2&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/stories2)
