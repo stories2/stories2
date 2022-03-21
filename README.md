@@ -51,6 +51,10 @@
 
 ## 작업 했던 프로젝트
 
+- ![먹거리 리뷰 SNS 팀 프로젝트](https://github.com/foodsns/Frontend/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC)
+
+<hr></hr>
+
 <details>
 <summary>나만의 버튜버 웹 앱</summary>
 
