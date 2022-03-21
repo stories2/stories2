@@ -10,7 +10,7 @@
 
 </br>
 
-자전거 타는걸 좋아해서 홍대부터 잠실까지 따릉이를 타고 퇴근을 하곤 했습니다.
+자전거 타는걸 좋아해서 홍대부터 잠실까지 따릉이로 퇴근을 하곤 했습니다.
 
 <section>
 <img align="left" width="70%" src="https://user-images.githubusercontent.com/16532326/130327902-48d51b56-53d7-42ac-aafc-862a26374ee6.png">
