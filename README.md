@@ -2,15 +2,15 @@
 
 # Introduce
 
-맥주 마시고선 다음날 피똥 싸본 허약체질 개발자 입니다. ^^7
+웹 풀스텍 개발자입니다. 
 
 <hr></hr>
 
-볼링을 잘 하는건 아니지만 같이 놀는 정도로만 플레이를 합니다.
+종종 볼링장에 가지만 친구들과 내기를 하면 늘 집니다.
 
 </br>
 
-자전거 타는걸 좋아해서 `홍대` -> `잠실` 까지 퇴근 할때 마다 대중교통 대신 자전거를 타고 갔었습니다. 도착하고 나면 다리에 마비가 오는게 문제지만
+자전거 타는걸 좋아해서 홍대부터 잠실까지 따릉이를 타고 퇴근을 하곤 했습니다.
 
 <section>
 <img align="left" width="70%" src="https://user-images.githubusercontent.com/16532326/130327902-48d51b56-53d7-42ac-aafc-862a26374ee6.png">
@@ -51,7 +51,7 @@
 
 ## 작업 했던 프로젝트
 
-- ![먹거리 리뷰 SNS 팀 프로젝트](https://github.com/foodsns/Frontend/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC)
+- [먹거리 리뷰 SNS 팀 프로젝트](https://github.com/foodsns/Frontend/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC)
 
 <hr></hr>
 
