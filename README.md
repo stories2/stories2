@@ -40,6 +40,16 @@
 <br>
 <hr></hr>
 
+## 보유 자격증
+
+- SQLD (2022년, 제 44회)
+- AIFB ASSOCIATE (2022년, 제 1회)
+- OCJP (2014년)
+- 정보처리기능사 (2013년)
+
+
+<hr></hr>
+
 ## 요즘 배우고 있는 것
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
