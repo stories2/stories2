@@ -42,6 +42,9 @@
 
 ## 보유 자격증
 
+<img src="https://user-images.githubusercontent.com/16532326/169948644-66da33f6-029c-44db-8e58-354f3390c615.png" width="128"/>
+
+- AZ-900 (2022년)
 - SQLD (2022년, 제 44회)
 - AIFB ASSOCIATE (2022년, 제 1회)
 - OCJP (2014년)
@@ -88,6 +91,7 @@
 
 <details>
 <summary>우타이테 랜딩페이지</summary>
+  
 ## 우타이테 랜딩페이지
 
 <img src="https://user-images.githubusercontent.com/16532326/123370720-42b9b700-d5bb-11eb-9cf3-55997afc9ea4.png" width="640"/>
