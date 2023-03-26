@@ -44,6 +44,7 @@
 
 <img src="https://user-images.githubusercontent.com/16532326/169948644-66da33f6-029c-44db-8e58-354f3390c615.png" width="128"/>
 
+- AWS Certified Cloud Practitioner (2023년)
 - JLPT N3 (2023년)
 - JLPT N4 (2022년)
 - AZ-900 (2022년)
