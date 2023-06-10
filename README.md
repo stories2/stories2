@@ -43,6 +43,9 @@
 ## 보유 자격증
 
 <div>
+  
+<img src="https://github.com/stories2/stories2/assets/16532326/d2b766de-106b-4401-9c0a-f7b2443e42d5"/>
+  
 <img src="https://user-images.githubusercontent.com/16532326/169948644-66da33f6-029c-44db-8e58-354f3390c615.png" width="128"/>
 
 <img src="https://user-images.githubusercontent.com/16532326/227770786-1f3d7ef8-a8f1-40eb-8d88-8465b793f30a.png" width="128"/>
