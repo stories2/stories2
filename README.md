@@ -1,34 +1,12 @@
-<img align="right" width="320" src="https://user-images.githubusercontent.com/16532326/141936459-f614ed5c-1297-4175-934b-4a7a1bd9bda1.gif">
-
 # Introduce
 
-웹 풀스텍 개발자입니다. 
+![IMG_1215](https://github.com/stories2/stories2/assets/16532326/dc7f79e1-12d2-49d9-8d38-a21b17793490)
 
-<hr></hr>
-
-종종 볼링장에 가지만 친구들과 내기를 하면 늘 집니다.
-
-</br>
-
-자전거 타는걸 좋아해서 홍대부터 잠실까지 따릉이로 퇴근을 하곤 했습니다.
-
-<section>
-<img align="left" width="70%" src="https://user-images.githubusercontent.com/16532326/130327902-48d51b56-53d7-42ac-aafc-862a26374ee6.png">
-<div width="30%">
-오랜 취미 생활로는 그림을 그립니다.
-
-[![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLtxx9mLrCpnLkIZXWrORJnB_UPA9BvDNa)
-
-각 캐릭터 별로 그리는 과정을 담아보았습니다. 
-  </div>
-</section>
-
-<br>
-<br>
-<hr></hr>
+프로그래밍을 하지만 취미로는 그림을 그리는 개발자 입니다.
 
 ## 활동 이력
 
+- `2022 ~` 라쿠텐 심포니 코리아 재직 중 (Backend 개발자)
 - `2021` 스타트업 코딩 페스티벌 2차 진출
 - `2018 ~ 2021` 산업기능 요원 복무 (Web full stack 개발자)
 - `2016 ~ 2017` SW Maestro 7기 연수생
