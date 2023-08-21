@@ -29,6 +29,7 @@
 <img src="https://user-images.githubusercontent.com/16532326/227770786-1f3d7ef8-a8f1-40eb-8d88-8465b793f30a.png" width="128"/>
 </div>
 
+- JLPT N2 (2023년)
 - AWS Certified Solutions Architect - Associate (2023년)
 - AWS Certified Cloud Practitioner (2023년)
 - JLPT N3 (2023년)
