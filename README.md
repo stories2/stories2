@@ -1,8 +1,8 @@
 # Introduce
 
-![IMG_1215](https://github.com/stories2/stories2/assets/16532326/dc7f79e1-12d2-49d9-8d38-a21b17793490)
+<img src="https://github.com/user-attachments/assets/3f878867-6b1f-4ac4-bb0c-7c8ece5bc87d" width="800px">
 
-프로그래밍을 하지만 취미로는 그림을 그리는 개발자 입니다.
+취미로 그림을 그리는 개발자입니다
 
 ## 활동 이력
 
