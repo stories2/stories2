@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/3f878867-6b1f-4ac4-bb0c-7c8ece5bc87d" width="800px">
 
-취미로 그림을 그리는 개발자입니다. ![youtube shorts](https://youtube.com/shorts/PX5OAkb5fg4?si=Z4qkKVHwndft5cpI)
+취미로 그림을 그리는 개발자입니다. [youtube shorts](https://youtube.com/shorts/PX5OAkb5fg4?si=Z4qkKVHwndft5cpI)
 
 ## 활동 이력
 
