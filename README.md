@@ -21,6 +21,9 @@
 ## 보유 자격증
 
 <div>
+
+<img src="https://github.com/user-attachments/assets/0d8d08a5-fbc5-4e84-a675-cdc298d9729a" width="128"/>
+
   
 <img src="https://github.com/stories2/stories2/assets/16532326/d2b766de-106b-4401-9c0a-f7b2443e42d5" width="128"/>
   
@@ -29,6 +32,7 @@
 <img src="https://user-images.githubusercontent.com/16532326/227770786-1f3d7ef8-a8f1-40eb-8d88-8465b793f30a.png" width="128"/>
 </div>
 
+- AWS Security Specialty (2024년)
 - JLPT N2 (2023년)
 - AWS Certified Solutions Architect - Associate (2023년)
 - AWS Certified Cloud Practitioner (2023년)
