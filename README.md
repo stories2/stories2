@@ -32,6 +32,7 @@
 <img src="https://user-images.githubusercontent.com/16532326/227770786-1f3d7ef8-a8f1-40eb-8d88-8465b793f30a.png" width="128"/>
 </div>
 
+- JLPT N1 (2026년)
 - Toeic 800 (2025년)
 - AWS Security Specialty (2024년)
 - JLPT N2 (2023년)
